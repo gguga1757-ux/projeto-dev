@@ -40,21 +40,21 @@ Esse projeto está sob a licença MIT.
 
 Durante o desenvolvimento deste projeto, aprendi e pratiquei diversos conceitos importantes, como:
 
-Estruturação de páginas com HTML
+- Estruturação de páginas com HTML
 
-Estilização e uso de variáveis no CSS
+- Estilização e uso de variáveis no CSS
 
-Manipulação da DOM com JavaScript
+- Manipulação da DOM com JavaScript
 
-Implementação de modo dark/light
+- Implementação de modo dark/light
 
-Uso do localStorage para salvar preferências
+- Uso do localStorage para salvar preferências
 
-Versionamento de código com Git e envio para o GitHub
+- Versionamento de código com Git e envio para o GitHub
 
-Organização de pastas e arquivos no front-end
+- Organização de pastas e arquivos no front-end
 
-Leitura e aplicação de layout a partir do Figma
+- Leitura e aplicação de layout a partir do Figma
 
 ---
 
