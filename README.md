@@ -36,6 +36,26 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+## 🧠 Aprendizado
+
+Durante o desenvolvimento deste projeto, aprendi e pratiquei diversos conceitos importantes, como:
+
+Estruturação de páginas com HTML
+
+Estilização e uso de variáveis no CSS
+
+Manipulação da DOM com JavaScript
+
+Implementação de modo dark/light
+
+Uso do localStorage para salvar preferências
+
+Versionamento de código com Git e envio para o GitHub
+
+Organização de pastas e arquivos no front-end
+
+Leitura e aplicação de layout a partir do Figma
+
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
